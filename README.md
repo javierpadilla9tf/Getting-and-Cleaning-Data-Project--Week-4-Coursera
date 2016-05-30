@@ -3,6 +3,7 @@
 ##This is the course project for the week 4 Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
 ##Make sure to download the dataset if it does not already exist in the working directory
+##Also make sure to install R Package "reshape2."
 ##Please load the activity and feature info
 ##Loads both the training and test datasets; this will only keep those columns which reflect a mean or standard deviation
 ##Loads the activity and subject data for each dataset; this will also merge those columns with the dataset
