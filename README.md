@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Project--Week-4-Coursera
 
-##This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
+##This is the course project for the week 4 Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
 ##Make sure to download the dataset if it does not already exist in the working directory
 ##Please load the activity and feature info
